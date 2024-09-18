@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://autunetio.github.io/sitemap.html.gz
+Sitemap: https://autunetio.github.io/app/sitemap.html.gz
+Sitemap: https://autunetio.github.io/assets/sitemap.html.gz
+Sitemap: https://autunetio.github.io/css/sitemap.html.gz
+Sitemap: https://autunetio.github.io/includes/sitemap.html.gz
+Sitemap: https://autunetio.github.io/item/sitemap.html.gz
+Sitemap: https://autunetio.github.io/src/sitemap.html.gz
